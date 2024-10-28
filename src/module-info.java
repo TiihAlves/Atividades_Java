@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module atividades_java {
-}
